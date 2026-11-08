@@ -11,7 +11,7 @@
     "postinstall": "prisma generate"
   },
   "dependencies": {
-    "@clerk/nextjs": "^6.17.0",
+    "@clerk/nextjs": "^7.9.25",
     "@discordjs/rest": "^2.5.0",
     "@hookform/resolvers": "^5.0.1",
     "@neondatabase/serverless": "^0.9.4",
@@ -28,10 +28,10 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
-    "hono": "^4.5.5",
+    "hono": "^4.13.11",
     "lucide-react": "^0.503.0",
     "motion": "^12.8.0",
-    "next": "^14.2.8",
+    "next": "^16.4.5",
     "prisma": "^5.18.0",
     "react": "^18",
     "react-dom": "^18",
@@ -42,8 +42,8 @@
     "tailwind-merge": "^2.6.0",
     "tailwindcss-animate": "^1.0.7",
     "vaul": "^1.1.2",
-    "wrangler": "^3.72.0",
-    "zod": "^3.23.8"
+    "wrangler": "^4.158.0",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240815.0",
