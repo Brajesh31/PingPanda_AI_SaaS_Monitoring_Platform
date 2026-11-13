@@ -304,3 +304,5 @@ Before production deployment:
 ## Contribution
 
 See [CONTRIBUTING.md](CONTRIBUTING.md), [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md), and [docs/OPERATIONS.md](docs/OPERATIONS.md) before changing the API, database schema, authentication, or integration behavior.
+
+Last updated: 2026-11-13 18:31 UTC
