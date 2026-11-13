@@ -314,3 +314,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md), [docs/ARCHITECTURE.md](docs/ARCHITECTURE
 - [Integrations](docs/INTEGRATIONS.md): Clerk, Neon/PostgreSQL, Redis, Stripe, and Discord operations.
 - [Operations](docs/OPERATIONS.md): environment setup, migrations, deployment, release verification, and recovery.
 - [Contributing](CONTRIBUTING.md), [security policy](SECURITY.md), and [community guidelines](CODE_OF_CONDUCT.md).
+
+Last updated: 2026-11-13 18:43 UTC
