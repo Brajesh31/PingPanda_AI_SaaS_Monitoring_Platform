@@ -305,4 +305,12 @@ Before production deployment:
 
 See [CONTRIBUTING.md](CONTRIBUTING.md), [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md), and [docs/OPERATIONS.md](docs/OPERATIONS.md) before changing the API, database schema, authentication, or integration behavior.
 
-Last updated: 2026-11-13 18:42 UTC
+
+## Documentation library
+
+- [Architecture](docs/ARCHITECTURE.md): application layers, request flow, authentication, and data ownership.
+- [Data model](docs/DATA_MODEL.md): Prisma entities, relations, constraints, and schema-change guidance.
+- [API reference](docs/API_REFERENCE.md): Hono router structure, authentication, and endpoint documentation standards.
+- [Integrations](docs/INTEGRATIONS.md): Clerk, Neon/PostgreSQL, Redis, Stripe, and Discord operations.
+- [Operations](docs/OPERATIONS.md): environment setup, migrations, deployment, release verification, and recovery.
+- [Contributing](CONTRIBUTING.md), [security policy](SECURITY.md), and [community guidelines](CODE_OF_CONDUCT.md).
