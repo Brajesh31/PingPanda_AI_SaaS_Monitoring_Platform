@@ -1,3 +1,5 @@
+![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript) ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql) ![License](https://img.shields.io/badge/License-MIT-green) ![CI](https://github.com/Brajesh31/PingPanda_AI_SaaS_Monitoring_Platform/actions/workflows/ci.yml/badge.svg)
+
 # PingPanda | SaaS Event Monitoring Platform
 
 PingPanda is a web application for organizing application events and delivering structured event information to user workspaces. The repository contains a Next.js application, a Hono-based API layer, Clerk authentication, Prisma data models backed by PostgreSQL, and integrations for payments and Discord-oriented workflows.
