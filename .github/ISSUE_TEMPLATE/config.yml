@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/Brajesh31/PingPanda_AI_SaaS_Monitoring_Platform/security/advisories/new
+    about: Report vulnerabilities privately. Do not publish secrets or exploitable details in a public issue.
+  - name: Contribution guidelines
+    url: https://github.com/Brajesh31/PingPanda_AI_SaaS_Monitoring_Platform/blob/main/CONTRIBUTING.md
+    about: Read the contribution and review expectations before opening a proposal.
