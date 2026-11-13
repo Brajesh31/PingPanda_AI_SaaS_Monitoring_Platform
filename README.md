@@ -317,4 +317,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md), [docs/ARCHITECTURE.md](docs/ARCHITECTURE
 - [Operations](docs/OPERATIONS.md): environment setup, migrations, deployment, release verification, and recovery.
 - [Contributing](CONTRIBUTING.md), [security policy](SECURITY.md), and [community guidelines](CODE_OF_CONDUCT.md).
 
-Last updated: 2026-11-13 20:46 UTC
+Last updated: 2026-11-13 21:19 UTC
